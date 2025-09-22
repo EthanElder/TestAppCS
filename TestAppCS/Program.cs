@@ -12,6 +12,7 @@ namespace TestAppCS
         {
             Console.WriteLine("Welcome to CS class to explore VS");
             Console.WriteLine("I am creating a second version");
+            Console.WriteLine("I can't believe you can change this in here");
             Console.ReadKey();
         }
     }
